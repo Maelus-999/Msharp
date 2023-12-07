@@ -2,7 +2,7 @@
 
 Welcome to M#!
 
-$${\color{red}For now you can't download it because its still in developpment}$$
+[!important]  For now you can't download it because its still in developpment}
 
 M# is a programming language designed for developing applications/small or large projects.
 
