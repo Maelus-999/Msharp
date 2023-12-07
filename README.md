@@ -2,7 +2,7 @@
 
 Welcome to M#!
 
-```diff
+### ```diff
 - For now you can't download it because its still in developpment
 ```
 
