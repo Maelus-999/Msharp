@@ -1,24 +1,23 @@
-This is free and unencumbered software released into the public domain.
+License to use M#
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+[Date]
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+1. Authorization for use:
+   You are allowed to use M# to develop applications and sell them.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+2. Restrictions:
+   has. It is prohibited to modify the source code of M#.
+   b. Any distribution or resale of M# as separate software is strictly prohibited.
+   vs. You are authorized to use the M# as provided for application development purposes only.
 
-For more information, please refer to <https://unlicense.org>
+3. Responsibility:
+   M# is provided as is, without any express or implied warranty. You use M# at your own risk. The author cannot be held responsible for any direct or indirect damage resulting from the use of the M#.
+
+4. Copyright:
+   The M# is protected by copyright laws and remains the property of Maël Gentil.
+
+By using the M#, you agree to the terms of this license. If you fail to comply with these terms, your right to use the M# will terminate.
+
+For any questions regarding this license, please contact maelus9992@gmail.com.
+
+Maelus999 - The owner
