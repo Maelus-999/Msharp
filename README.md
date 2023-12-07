@@ -1,28 +1,28 @@
 # M#
 
-Bienvenue sur M# !
+Welcome to M#!
 
-M# est un langage de programmation conçu pour Développer des application/des petit ou grand projets.
+M# is a programming language designed for developing applications/small or large projects.
 
-## Comment utiliser M#
+## How to use M#
 
-Pour commencer à utiliser M#, suivez ces étapes simples :
+To get started using M#, follow these simple steps:
 
-1. **Installation :**
-   Téléchargez et installez M# à partir du [lien de téléchargement] disponible sur [site Web ou emplacement spécifique].
+1. **Installation:**
+   Download and install M# from the [download link] available at [website or specific location].
 
-2. **Documentation :**
-   Consultez la documentation incluse pour comprendre la syntaxe, les fonctionnalités et les bonnes pratiques de programmation.
+2. **Documentation:**
+   Review the included documentation to understand the syntax, features, and programming best practices.
 
-3. **Exemples :**
-   Parcourez les exemples fournis pour vous familiariser avec la manière d'écrire du code en #.
+3. **Examples:**
+   Go through the examples provided to familiarize yourself with how to write code in #.
 
 ## Licence
 
-Ce projet est sous licence. Consultez le fichier `LICENSE` pour plus d'informations.
+This project is licensed. See the `LICENSE` file for more information.
 
 ## Contact
 
-Pour toute question, suggestion ou signalement de problème, n'hésitez pas à nous contacter à l'adresse maelus9992@gmail.com.
+For any questions, suggestions or problem reports, please feel free to contact us at maelus9992@gmail.com.
 
-Nous apprécions votre intérêt pour M# !
+We appreciate your interest in M#!
