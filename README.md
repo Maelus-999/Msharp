@@ -1,9 +1,8 @@
 # M#
 > [!important]
-> For now you can't download it because its still in developpment}
+> For now you can't download it because its still in development.
 
 ### Welcome to M#!
-
 
 M# is a programming language designed for developing applications/small or large projects.
 
