@@ -2,6 +2,8 @@
 
 Welcome to M#!
 
+### For now you can't download it because its still in developpment
+
 M# is a programming language designed for developing applications/small or large projects.
 
 ## How to use M#
@@ -9,7 +11,7 @@ M# is a programming language designed for developing applications/small or large
 To get started using M#, follow these simple steps:
 
 1. **Installation:**
-   Download and install M# from the [download link] available at [website or specific location].
+   Download and install M# from the ...
 
 2. **Documentation:**
    Review the included documentation to understand the syntax, features, and programming best practices.
