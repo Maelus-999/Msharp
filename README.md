@@ -3,7 +3,7 @@
 > For now you can't download it because its still in development.
 
 > [!warning]
-> The download may be blocked at the time of download because it's new and I don't put a certificate. it's an .exe so Google thinks it's a virus (you can check on antivirus if you want)
+> The download may be blocked at the time of download because it's new and I don't put a certificate. it's an .exe so Google thinks it's a virus but its not (you can check on antivirus if you want)
 > 
 ### Welcome to M#!
 
